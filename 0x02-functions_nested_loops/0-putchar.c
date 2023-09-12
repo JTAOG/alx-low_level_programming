@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main - this is my entry point.
+ * main - This is the point of my entry
  *
- * Return: (0) is a successful one
+ * Return: (0) is a success
  */
 int main(void)
 {

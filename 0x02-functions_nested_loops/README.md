@@ -1,1 +1,1 @@
-This is my functions, nested loops projects
+this is my project work on functions and loops
