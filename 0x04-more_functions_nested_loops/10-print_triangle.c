@@ -19,7 +19,7 @@ void print_triangle(int size)
 			}
 			for (index = 0; index < hash; index++)
 			{
-				putchar('0');
+				putchar('#');
 			}
 			if (hash == size)
 			{
